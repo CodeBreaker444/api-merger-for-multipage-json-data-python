@@ -2,4 +2,4 @@ language: python
 python:
   - "3.4"
 script:
-  - python basics.py
+  - python cb_API_MERGER.py
